@@ -1,3 +1,4 @@
+![Profile Picture](banner.jpg)
 # Hi 👋, I'm Abhijit Jadhav
 I am a qualified and professional Frontend web developer with experience in Redhat Linux administration. Looking forward to my Devops journey.
 
