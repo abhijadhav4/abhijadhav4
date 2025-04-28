@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Abhijit Jadhav
 
 📍 Pune, India  
-📧 [Gmail](mailto:mailto:jabhijitp@gmail.com) | 📱 +91 12345 67890 | [GitHub](https://github.com/abhijadhav4) | [LinkedIn](https://www.linkedin.com/in/abhijit-jadhav-80457222b/) | [Credly](https://www.credly.com/users/abhijit-jadhav.9678d86c/edit)  
+📧 [Gmail](mailto:mailto:jabhijitp@gmail.com) | 📱 +91 12345 67890 | [GitHub](https://github.com/abhijadhav4) | [LinkedIn](https://www.linkedin.com/in/abhijit-jadhav-80457222b/) | [Credly](https://www.credly.com/users/abhijit-jadhav.9678d86c/edit) | [Personal website](https://abhijitjadhav.netlify.app/)
 
 ---
 
@@ -64,10 +64,11 @@ DBATU – MIT College
 
 ## 🌐 Connect with Me
 
+- [Gmail](mailto:jabhijitp@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/abhijit-jadhav-80457222b/)
 - [Credly](https://www.credly.com/users/abhijit-jadhav.9678d86c)
 - [GitHub](https://github.com/abhijadhav4)
-- [Gmail](mailto:jabhijitp@gmail.com)
+- [Personal website](https://abhijitjadhav.netlify.app/)
 
 ---
 
