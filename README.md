@@ -57,8 +57,8 @@ DBATU – MIT College
 ## 📊 GitHub Stats
 
 <!-- Optionally, you can add dynamic GitHub stats using the following: -->
-![Abhijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Abhijit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijadhav4&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijadhav4&layout=compact)
 
 ---
 
